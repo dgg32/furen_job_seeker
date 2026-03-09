@@ -37,9 +37,9 @@ import os
 # ── Input file paths (relative to this script) ──────────────────────────────
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-PERSON_CSV      = os.path.join(SCRIPT_DIR, "seeker.csv")
-ORG_CSV         = os.path.join(SCRIPT_DIR, "organization.csv")
-SKILL_CSV       = os.path.join(SCRIPT_DIR, "skill.csv")
+PERSON_CSV      = os.path.join(SCRIPT_DIR, "raw",  "seeker.csv")
+ORG_CSV         = os.path.join(SCRIPT_DIR, "raw",  "organization.csv")
+SKILL_CSV       = os.path.join(SCRIPT_DIR, "raw",  "skill.csv")
 
 
 
