@@ -1,0 +1,17 @@
+id,name,depth
+PS1,Manufacturing,1
+PS2,Software,1
+L2_1,3D Scanning,2
+L2_2,Advanced Applications,2
+L2_3,Full-stack Developement,2
+L2_4,Data Engineer,2
+S1,Conduct scan-based part inspection,3
+S2,Perform laser & structured light scanning,3
+S3,Process point cloud data,3
+S4,Apply sheet lamination techniques (LOM),3
+S5,Create parts using liquid molding and casting,3
+S6,Operate large-scale 3D printing systems,3
+S7,Frontend development,3
+S8,Backend development,3
+S9,Data modeling,3
+S10,Machine learning,3
